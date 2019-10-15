@@ -1,0 +1,788 @@
+{
+  "portfolioReturnList": [
+    {
+      "date": 1543554000000,
+      "monthlyPortfolioReturn": 0.0209,
+      "monthlyPortfolioValue": 32920.2536
+    },
+    {
+      "date": 1540958400000,
+      "monthlyPortfolioReturn": -0.0727,
+      "monthlyPortfolioValue": 32246.7322
+    },
+    {
+      "date": 1538280000000,
+      "monthlyPortfolioReturn": 0.0023,
+      "monthlyPortfolioValue": 34775.4049
+    },
+    {
+      "date": 1535688000000,
+      "monthlyPortfolioReturn": 0.0344,
+      "monthlyPortfolioValue": 34695.4112
+    },
+    {
+      "date": 1533009600000,
+      "monthlyPortfolioReturn": 0.0341,
+      "monthlyPortfolioValue": 33542.1937
+    },
+    {
+      "date": 1530331200000,
+      "monthlyPortfolioReturn": 0.0065,
+      "monthlyPortfolioValue": 32435.1684
+    },
+    {
+      "date": 1527739200000,
+      "monthlyPortfolioReturn": 0.0272,
+      "monthlyPortfolioValue": 32225.9351
+    },
+    {
+      "date": 1525060800000,
+      "monthlyPortfolioReturn": 0.0032,
+      "monthlyPortfolioValue": 31373.1684
+    },
+    {
+      "date": 1522468800000,
+      "monthlyPortfolioReturn": -0.0209,
+      "monthlyPortfolioValue": 31274.2604
+    },
+    {
+      "date": 1519794000000,
+      "monthlyPortfolioReturn": -0.0369,
+      "monthlyPortfolioValue": 31941.9592
+    },
+    {
+      "date": 1517374800000,
+      "monthlyPortfolioReturn": 0.0540,
+      "monthlyPortfolioValue": 33164.7984
+    },
+    {
+      "date": 1514696400000,
+      "monthlyPortfolioReturn": 0.0104,
+      "monthlyPortfolioValue": 31467.0533
+    },
+    {
+      "date": 1512018000000,
+      "monthlyPortfolioReturn": 0.0306,
+      "monthlyPortfolioValue": 31144.0305
+    },
+    {
+      "date": 1509422400000,
+      "monthlyPortfolioReturn": 0.0225,
+      "monthlyPortfolioValue": 30220.6360
+    },
+    {
+      "date": 1506744000000,
+      "monthlyPortfolioReturn": 0.0230,
+      "monthlyPortfolioValue": 29556.4898
+    },
+    {
+      "date": 1504152000000,
+      "monthlyPortfolioReturn": 0.0023,
+      "monthlyPortfolioValue": 28892.2032
+    },
+    {
+      "date": 1501473600000,
+      "monthlyPortfolioReturn": 0.0194,
+      "monthlyPortfolioValue": 28824.8482
+    },
+    {
+      "date": 1498795200000,
+      "monthlyPortfolioReturn": 0.0081,
+      "monthlyPortfolioValue": 28277.3561
+    },
+    {
+      "date": 1496203200000,
+      "monthlyPortfolioReturn": 0.0117,
+      "monthlyPortfolioValue": 28048.8005
+    },
+    {
+      "date": 1493524800000,
+      "monthlyPortfolioReturn": 0.0105,
+      "monthlyPortfolioValue": 27723.6328
+    },
+    {
+      "date": 1490932800000,
+      "monthlyPortfolioReturn": 0.0007,
+      "monthlyPortfolioValue": 27435.8770
+    },
+    {
+      "date": 1488258000000,
+      "monthlyPortfolioReturn": 0.0376,
+      "monthlyPortfolioValue": 27416.3018
+    },
+    {
+      "date": 1485838800000,
+      "monthlyPortfolioReturn": 0.0200,
+      "monthlyPortfolioValue": 26422.2136
+    },
+    {
+      "date": 1483160400000,
+      "monthlyPortfolioReturn": 0.0190,
+      "monthlyPortfolioValue": 25904.4078
+    },
+    {
+      "date": 1480482000000,
+      "monthlyPortfolioReturn": 0.0423,
+      "monthlyPortfolioValue": 25421.0544
+    },
+    {
+      "date": 1477886400000,
+      "monthlyPortfolioReturn": -0.0208,
+      "monthlyPortfolioValue": 24390.5465
+    },
+    {
+      "date": 1475208000000,
+      "monthlyPortfolioReturn": 0.0010,
+      "monthlyPortfolioValue": 24909.7377
+    },
+    {
+      "date": 1472616000000,
+      "monthlyPortfolioReturn": 0.0022,
+      "monthlyPortfolioValue": 24886.0511
+    },
+    {
+      "date": 1469937600000,
+      "monthlyPortfolioReturn": 0.0393,
+      "monthlyPortfolioValue": 24831.0528
+    },
+    {
+      "date": 1467259200000,
+      "monthlyPortfolioReturn": 0.0021,
+      "monthlyPortfolioValue": 23892.6177
+    },
+    {
+      "date": 1464667200000,
+      "monthlyPortfolioReturn": 0.0183,
+      "monthlyPortfolioValue": 23842.8743
+    },
+    {
+      "date": 1461988800000,
+      "monthlyPortfolioReturn": 0.0055,
+      "monthlyPortfolioValue": 23415.5292
+    },
+    {
+      "date": 1459396800000,
+      "monthlyPortfolioReturn": 0.0701,
+      "monthlyPortfolioValue": 23287.8790
+    },
+    {
+      "date": 1456722000000,
+      "monthlyPortfolioReturn": -0.0004,
+      "monthlyPortfolioValue": 21761.6395
+    },
+    {
+      "date": 1454216400000,
+      "monthlyPortfolioReturn": -0.0551,
+      "monthlyPortfolioValue": 21769.5592
+    },
+    {
+      "date": 1451538000000,
+      "monthlyPortfolioReturn": -0.0195,
+      "monthlyPortfolioValue": 23038.5478
+    },
+    {
+      "date": 1448859600000,
+      "monthlyPortfolioReturn": 0.0047,
+      "monthlyPortfolioValue": 23497.6640
+    },
+    {
+      "date": 1446264000000,
+      "monthlyPortfolioReturn": 0.0794,
+      "monthlyPortfolioValue": 23388.7542
+    },
+    {
+      "date": 1443585600000,
+      "monthlyPortfolioReturn": -0.0281,
+      "monthlyPortfolioValue": 21667.3564
+    },
+    {
+      "date": 1440993600000,
+      "monthlyPortfolioReturn": -0.0601,
+      "monthlyPortfolioValue": 22293.9823
+    },
+    {
+      "date": 1438315200000,
+      "monthlyPortfolioReturn": 0.0178,
+      "monthlyPortfolioValue": 23719.1826
+    },
+    {
+      "date": 1435636800000,
+      "monthlyPortfolioReturn": -0.0179,
+      "monthlyPortfolioValue": 23303.8360
+    },
+    {
+      "date": 1433044800000,
+      "monthlyPortfolioReturn": 0.0137,
+      "monthlyPortfolioValue": 23728.9762
+    },
+    {
+      "date": 1430366400000,
+      "monthlyPortfolioReturn": 0.0053,
+      "monthlyPortfolioValue": 23408.4836
+    },
+    {
+      "date": 1427774400000,
+      "monthlyPortfolioReturn": -0.0109,
+      "monthlyPortfolioValue": 23285.6912
+    },
+    {
+      "date": 1425099600000,
+      "monthlyPortfolioReturn": 0.0577,
+      "monthlyPortfolioValue": 23541.6644
+    },
+    {
+      "date": 1422680400000,
+      "monthlyPortfolioReturn": -0.0272,
+      "monthlyPortfolioValue": 22257.9905
+    },
+    {
+      "date": 1420002000000,
+      "monthlyPortfolioReturn": -0.0012,
+      "monthlyPortfolioValue": 22880.8295
+    },
+    {
+      "date": 1417323600000,
+      "monthlyPortfolioReturn": 0.0252,
+      "monthlyPortfolioValue": 22908.3470
+    },
+    {
+      "date": 1414728000000,
+      "monthlyPortfolioReturn": 0.0269,
+      "monthlyPortfolioValue": 22346.3018
+    },
+    {
+      "date": 1412049600000,
+      "monthlyPortfolioReturn": -0.0200,
+      "monthlyPortfolioValue": 21761.7422
+    },
+    {
+      "date": 1409457600000,
+      "monthlyPortfolioReturn": 0.0419,
+      "monthlyPortfolioValue": 22206.3103
+    },
+    {
+      "date": 1406779200000,
+      "monthlyPortfolioReturn": -0.0185,
+      "monthlyPortfolioValue": 21313.7031
+    },
+    {
+      "date": 1404100800000,
+      "monthlyPortfolioReturn": 0.0244,
+      "monthlyPortfolioValue": 21715.7617
+    },
+    {
+      "date": 1401508800000,
+      "monthlyPortfolioReturn": 0.0226,
+      "monthlyPortfolioValue": 21198.2468
+    },
+    {
+      "date": 1398830400000,
+      "monthlyPortfolioReturn": 0.0024,
+      "monthlyPortfolioValue": 20729.2111
+    },
+    {
+      "date": 1396238400000,
+      "monthlyPortfolioReturn": 0.0055,
+      "monthlyPortfolioValue": 20679.8731
+    },
+    {
+      "date": 1393563600000,
+      "monthlyPortfolioReturn": 0.0475,
+      "monthlyPortfolioValue": 20566.6516
+    },
+    {
+      "date": 1391144400000,
+      "monthlyPortfolioReturn": -0.0316,
+      "monthlyPortfolioValue": 19634.4229
+    },
+    {
+      "date": 1388466000000,
+      "monthlyPortfolioReturn": 0.0264,
+      "monthlyPortfolioValue": 20274.6770
+    },
+    {
+      "date": 1385787600000,
+      "monthlyPortfolioReturn": 0.0283,
+      "monthlyPortfolioValue": 19753.7181
+    },
+    {
+      "date": 1383192000000,
+      "monthlyPortfolioReturn": 0.0430,
+      "monthlyPortfolioValue": 19209.1745
+    },
+    {
+      "date": 1380513600000,
+      "monthlyPortfolioReturn": 0.0360,
+      "monthlyPortfolioValue": 18416.8026
+    },
+    {
+      "date": 1377921600000,
+      "monthlyPortfolioReturn": -0.0287,
+      "monthlyPortfolioValue": 17777.2037
+    },
+    {
+      "date": 1375243200000,
+      "monthlyPortfolioReturn": 0.0538,
+      "monthlyPortfolioValue": 18301.6089
+    },
+    {
+      "date": 1372564800000,
+      "monthlyPortfolioReturn": -0.0132,
+      "monthlyPortfolioValue": 17366.6822
+    },
+    {
+      "date": 1369972800000,
+      "monthlyPortfolioReturn": 0.0232,
+      "monthlyPortfolioValue": 17598.3968
+    },
+    {
+      "date": 1367294400000,
+      "monthlyPortfolioReturn": 0.0174,
+      "monthlyPortfolioValue": 17200.2035
+    },
+    {
+      "date": 1364702400000,
+      "monthlyPortfolioReturn": 0.0389,
+      "monthlyPortfolioValue": 16906.4688
+    },
+    {
+      "date": 1362027600000,
+      "monthlyPortfolioReturn": 0.0136,
+      "monthlyPortfolioValue": 16273.5043
+    },
+    {
+      "date": 1359608400000,
+      "monthlyPortfolioReturn": 0.0543,
+      "monthlyPortfolioValue": 16055.7181
+    },
+    {
+      "date": 1356930000000,
+      "monthlyPortfolioReturn": 0.0114,
+      "monthlyPortfolioValue": 15228.9087
+    },
+    {
+      "date": 1354251600000,
+      "monthlyPortfolioReturn": 0.0076,
+      "monthlyPortfolioValue": 15056.9761
+    },
+    {
+      "date": 1351656000000,
+      "monthlyPortfolioReturn": -0.0175,
+      "monthlyPortfolioValue": 14943.2016
+    },
+    {
+      "date": 1348977600000,
+      "monthlyPortfolioReturn": 0.0248,
+      "monthlyPortfolioValue": 15209.4196
+    },
+    {
+      "date": 1346385600000,
+      "monthlyPortfolioReturn": 0.0247,
+      "monthlyPortfolioValue": 14840.9717
+    },
+    {
+      "date": 1343707200000,
+      "monthlyPortfolioReturn": 0.0112,
+      "monthlyPortfolioValue": 14482.5503
+    },
+    {
+      "date": 1341028800000,
+      "monthlyPortfolioReturn": 0.0387,
+      "monthlyPortfolioValue": 14322.1693
+    },
+    {
+      "date": 1338436800000,
+      "monthlyPortfolioReturn": -0.0617,
+      "monthlyPortfolioValue": 13788.2934
+    },
+    {
+      "date": 1335758400000,
+      "monthlyPortfolioReturn": -0.0060,
+      "monthlyPortfolioValue": 14695.6655
+    },
+    {
+      "date": 1333166400000,
+      "monthlyPortfolioReturn": 0.0309,
+      "monthlyPortfolioValue": 14783.7873
+    },
+    {
+      "date": 1330491600000,
+      "monthlyPortfolioReturn": 0.0435,
+      "monthlyPortfolioValue": 14340.5412
+    },
+    {
+      "date": 1327986000000,
+      "monthlyPortfolioReturn": 0.0492,
+      "monthlyPortfolioValue": 13742.9720
+    },
+    {
+      "date": 1325307600000,
+      "monthlyPortfolioReturn": 0.0084,
+      "monthlyPortfolioValue": 13098.2462
+    },
+    {
+      "date": 1322629200000,
+      "monthlyPortfolioReturn": -0.0030,
+      "monthlyPortfolioValue": 12988.8863
+    },
+    {
+      "date": 1320033600000,
+      "monthlyPortfolioReturn": 0.1145,
+      "monthlyPortfolioValue": 13027.7716
+    },
+    {
+      "date": 1317355200000,
+      "monthlyPortfolioReturn": -0.0761,
+      "monthlyPortfolioValue": 11689.3787
+    },
+    {
+      "date": 1314763200000,
+      "monthlyPortfolioReturn": -0.0583,
+      "monthlyPortfolioValue": 12652.3941
+    },
+    {
+      "date": 1312084800000,
+      "monthlyPortfolioReturn": -0.0221,
+      "monthlyPortfolioValue": 13435.6809
+    },
+    {
+      "date": 1309406400000,
+      "monthlyPortfolioReturn": -0.0168,
+      "monthlyPortfolioValue": 13738.7228
+    },
+    {
+      "date": 1306814400000,
+      "monthlyPortfolioReturn": -0.0109,
+      "monthlyPortfolioValue": 13974.0087
+    },
+    {
+      "date": 1304136000000,
+      "monthlyPortfolioReturn": 0.0298,
+      "monthlyPortfolioValue": 14128.2040
+    },
+    {
+      "date": 1301544000000,
+      "monthlyPortfolioReturn": 0.0039,
+      "monthlyPortfolioValue": 13718.9152
+    },
+    {
+      "date": 1298869200000,
+      "monthlyPortfolioReturn": 0.0355,
+      "monthlyPortfolioValue": 13666.2264
+    },
+    {
+      "date": 1296450000000,
+      "monthlyPortfolioReturn": 0.0236,
+      "monthlyPortfolioValue": 13198.0443
+    },
+    {
+      "date": 1293771600000,
+      "monthlyPortfolioReturn": 0.0672,
+      "monthlyPortfolioValue": 12894.2695
+    },
+    {
+      "date": 1291093200000,
+      "monthlyPortfolioReturn": 0.0050,
+      "monthlyPortfolioValue": 12082.5086
+    },
+    {
+      "date": 1288497600000,
+      "monthlyPortfolioReturn": 0.0396,
+      "monthlyPortfolioValue": 12022.3643
+    },
+    {
+      "date": 1285819200000,
+      "monthlyPortfolioReturn": 0.0939,
+      "monthlyPortfolioValue": 11564.9430
+    },
+    {
+      "date": 1283227200000,
+      "monthlyPortfolioReturn": -0.0461,
+      "monthlyPortfolioValue": 10572.2974
+    },
+    {
+      "date": 1280548800000,
+      "monthlyPortfolioReturn": 0.0699,
+      "monthlyPortfolioValue": 11083.3053
+    },
+    {
+      "date": 1277870400000,
+      "monthlyPortfolioReturn": -0.0560,
+      "monthlyPortfolioValue": 10359.6612
+    },
+    {
+      "date": 1275278400000,
+      "monthlyPortfolioReturn": -0.0793,
+      "monthlyPortfolioValue": 10973.9500
+    },
+    {
+      "date": 1272600000000,
+      "monthlyPortfolioReturn": 0.0201,
+      "monthlyPortfolioValue": 11919.6439
+    },
+    {
+      "date": 1270008000000,
+      "monthlyPortfolioReturn": 0.0621,
+      "monthlyPortfolioValue": 11685.0696
+    },
+    {
+      "date": 1267333200000,
+      "monthlyPortfolioReturn": 0.0332,
+      "monthlyPortfolioValue": 11001.3800
+    },
+    {
+      "date": 1264914000000,
+      "monthlyPortfolioReturn": -0.0355,
+      "monthlyPortfolioValue": 10647.7976
+    },
+    {
+      "date": 1262235600000,
+      "monthlyPortfolioReturn": 0.0270,
+      "monthlyPortfolioValue": 11039.9899
+    },
+    {
+      "date": 1259557200000,
+      "monthlyPortfolioReturn": 0.0576,
+      "monthlyPortfolioValue": 10749.6619
+    },
+    {
+      "date": 1256961600000,
+      "monthlyPortfolioReturn": -0.0239,
+      "monthlyPortfolioValue": 10163.9626
+    },
+    {
+      "date": 1254283200000,
+      "monthlyPortfolioReturn": 0.0413,
+      "monthlyPortfolioValue": 10413.3050
+    },
+    {
+      "date": 1251777600000,
+      "monthlyPortfolioReturn": 0,
+      "monthlyPortfolioValue": 10000
+    }
+  ],
+  "twelve_month_yield": 0,
+  "pe_ratio": 0,
+  "pb_ratio": 0,
+  "creditExposure": null,
+  "effectiveMaturity": 0.0,
+  "effectiveDuration": 0.0,
+  "expense_ratio": 0.0,
+  "management_fee": 0.0,
+  "large_value": 0.0,
+  "large_blend": 0.0,
+  "large_growth": 0.0,
+  "mid_value": 0.0,
+  "mid_blend": 0.0,
+  "mid_growth": 0.0,
+  "small_value": 0.0,
+  "small_blend": 0.0,
+  "small_growth": 0.0,
+  "totalExpectedPortfolioReturn": 13.546666666666667,
+  "totalExpectedPortfolioRisk": 12.240864157530842,
+  "averageExpectedReturn": 0.0,
+  "us_development": 0.0,
+  "int_development": 0.0,
+  "emerging_market": 0.0,
+  "cash": 0.0,
+  "bonds": 0.0,
+  "equity": 0.0,
+  "convertible": 0.0,
+  "preferred": 0.0,
+  "managedFeatures": 0.0,
+  "realestate": 0.0,
+  "mlps": 0.0,
+  "frontLoad": 0.0,
+  "frontDefferred": 0.0,
+  "market_neutral": 0.0,
+  "id": "XIUSA0010V",
+  "indexName": "Morningstar US Market TR USD",
+  "annulizedReturn": 13.753389463753841,
+  "portfolioRegionalBreakdown": null,
+  "portfolioCountryBreakdown": null,
+  "other": 0.0,
+  "totalPositions": null,
+  "status": null,
+  "earliestDate": null,
+  "latestDate": null,
+  "portfolioReturnData": {
+    "lowest1YrReturnValue": {
+      "rdate": 1456722000000,
+      "rValue": -7.5600
+    },
+    "highest1YrReturnValue": {
+      "rdate": 1388466000000,
+      "rValue": 33.1300
+    },
+    "lowest3YrReturnValue": {
+      "rdate": 1477886400000,
+      "rValue": 26.9700
+    },
+    "highest3YrReturnValue": {
+      "rdate": 1412049600000,
+      "rValue": 86.1700
+    },
+    "annualizedReturnsList": [
+      {
+        "year": 1,
+        "value": 5.716052815091399
+      },
+      {
+        "year": 3,
+        "value": 11.905884584049442
+      },
+      {
+        "year": 5,
+        "value": 10.764962588232407
+      },
+      {
+        "year": 7,
+        "value": 14.212985713985415
+      },
+      {
+        "year": 0,
+        "value": 13.753389463753841
+      }
+    ],
+    "threeYearRollingReturnList": [
+      {
+        "rdate": 1543554000000,
+        "rValue": 11.905884584049442054265455226413905620574951171875
+      },
+      {
+        "rdate": 1535688000000,
+        "rValue": 15.895344991856319438738864846527576446533203125
+      },
+      {
+        "rdate": 1527739200000,
+        "rValue": 10.7501488497176325154214282520115375518798828125
+      },
+      {
+        "rdate": 1519794000000,
+        "rValue": 10.7140914956399768698247498832643032073974609375
+      },
+      {
+        "rdate": 1512018000000,
+        "rValue": 10.787132970641156504143509664572775363922119140625
+      },
+      {
+        "rdate": 1504152000000,
+        "rValue": 9.177690466120512979841805645264685153961181640625
+      },
+      {
+        "rdate": 1496203200000,
+        "rValue": 9.79449078673442130593684851191937923431396484375
+      },
+      {
+        "rdate": 1488258000000,
+        "rValue": 10.0676092571293285260480843135155737400054931640625
+      },
+      {
+        "rdate": 1480482000000,
+        "rValue": 8.784389559531380342605189071036875247955322265625
+      },
+      {
+        "rdate": 1472616000000,
+        "rValue": 11.872103888186668285698033287189900875091552734375
+      },
+      {
+        "rdate": 1464667200000,
+        "rValue": 10.65386407036947957749362103641033172607421875
+      },
+      {
+        "rdate": 1456722000000,
+        "rValue": 10.1745267427492347422912644105963408946990966796875
+      }
+    ],
+    "fiveYearRollingReturnList": [
+      {
+        "rdate": 1543554000000,
+        "rValue": 10.764962588232407370014698244631290435791015625
+      },
+      {
+        "rdate": 1535688000000,
+        "rValue": 14.31808645510417221657917252741754055023193359375
+      },
+      {
+        "rdate": 1527739200000,
+        "rValue": 12.867816961779766415929771028459072113037109375
+      },
+      {
+        "rdate": 1519794000000,
+        "rValue": 14.4462087600248256791246603825129568576812744140625
+      },
+      {
+        "rdate": 1512018000000,
+        "rValue": 15.6514536078761210546872462145984172821044921875
+      },
+      {
+        "rdate": 1504152000000,
+        "rValue": 14.2555341365298016143015047418884932994842529296875
+      },
+      {
+        "rdate": 1496203200000,
+        "rValue": 15.26377414808361976383821456693112850189208984375
+      },
+      {
+        "rdate": 1488258000000,
+        "rValue": 13.842223717525659054672360070981085300445556640625
+      },
+      {
+        "rdate": 1480482000000,
+        "rValue": 14.3771369074211730065826486679725348949432373046875
+      },
+      {
+        "rdate": 1472616000000,
+        "rValue": 14.487907205834392954102440853603184223175048828125
+      },
+      {
+        "rdate": 1464667200000,
+        "rValue": 11.27769379698373342080230941064655780792236328125
+      },
+      {
+        "rdate": 1456722000000,
+        "rValue": 9.750975379515924856832498335279524326324462890625
+      }
+    ],
+    "annualReturnsList": [
+      {
+        "rdate": 1543554000000,
+        "rValue": 5.7000
+      },
+      {
+        "rdate": 1512018000000,
+        "rValue": 22.5100
+      },
+      {
+        "rdate": 1480482000000,
+        "rValue": 8.1900
+      },
+      {
+        "rdate": 1448859600000,
+        "rValue": 2.5700
+      },
+      {
+        "rdate": 1417323600000,
+        "rValue": 15.9700
+      },
+      {
+        "rdate": 1385787600000,
+        "rValue": 31.1900
+      },
+      {
+        "rdate": 1354251600000,
+        "rValue": 15.9200
+      },
+      {
+        "rdate": 1322629200000,
+        "rValue": 7.5000
+      },
+      {
+        "rdate": 1291093200000,
+        "rValue": 12.4000
+      }
+    ]
+  },
+  "allocationSorted": null,
+  "isCustomLayout": false
+}

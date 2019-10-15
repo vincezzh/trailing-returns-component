@@ -1,0 +1,1859 @@
+{
+  "portfolioId": 720,
+  "portfolioName": "UAT Tester's Current Holdings",
+  "advisorId": 91,
+  "clientId": 9331,
+  "firmId": 48,
+  "portfolioValue": 119175,
+  "portfolioInfo": [
+    {
+      "value": 79200,
+      "assetType": 2766,
+      "morningstarId": "0P000000LT",
+      "symbol": "CITY",
+      "price": 79200,
+      "productName": "Avalon Correctional Services Inc",
+      "percentage": 66.457,
+      "units": 1,
+      "unRecognizedTicker": false,
+      "id": 12501
+    },
+    {
+      "value": 11975,
+      "assetType": 2766,
+      "morningstarId": "0P0000SIQL",
+      "symbol": "FSFF",
+      "price": 11975,
+      "productName": "First Suffield Financial Inc",
+      "percentage": 10.048,
+      "units": 1,
+      "unRecognizedTicker": false,
+      "id": 12502
+    },
+    {
+      "value": 28000,
+      "assetType": 2766,
+      "morningstarId": "0P0000C6YV",
+      "symbol": "AFIPA",
+      "price": 33950,
+      "productName": "AMFI Corp",
+      "percentage": 23.495,
+      "units": 1,
+      "unRecognizedTicker": false,
+      "id": 12503
+    }
+  ],
+  "annualizedReturn": 11.78128758875,
+  "returnRate": 12.9193,
+  "risk": 15.0865,
+  "expenseRatio": 0,
+  "priceDate": 1567137600000,
+  "isCustomPortfolio": false,
+  "customReturnRate": null,
+  "customRisk": null,
+  "customAnnualizedReturn": null,
+  "isCustomPortfolioReturns": false,
+  "objectScope": null,
+  "isSyncWithQuovo": false,
+  "isUnitAndValuesChanged": false,
+  "portfolioScope": "CLIENT",
+  "details": {
+    "portfolioReturnList": [
+      {
+        "date": 1567224000000,
+        "monthlyPortfolioReturn": -1.08,
+        "monthlyPortfolioValue": 15062.4044
+      },
+      {
+        "date": 1564545600000,
+        "monthlyPortfolioReturn": 0.38,
+        "monthlyPortfolioValue": 15226.4721
+      },
+      {
+        "date": 1561867200000,
+        "monthlyPortfolioReturn": 2.24,
+        "monthlyPortfolioValue": 15169.5781
+      },
+      {
+        "date": 1559275200000,
+        "monthlyPortfolioReturn": -2.25,
+        "monthlyPortfolioValue": 14837.8747
+      },
+      {
+        "date": 1556596800000,
+        "monthlyPortfolioReturn": 0.84,
+        "monthlyPortfolioValue": 15179.3915
+      },
+      {
+        "date": 1554004800000,
+        "monthlyPortfolioReturn": 0.14,
+        "monthlyPortfolioValue": 15052.5296
+      },
+      {
+        "date": 1551330000000,
+        "monthlyPortfolioReturn": 0.87,
+        "monthlyPortfolioValue": 15031.9882
+      },
+      {
+        "date": 1548910800000,
+        "monthlyPortfolioReturn": 1.93,
+        "monthlyPortfolioValue": 14902.2691
+      },
+      {
+        "date": 1546232400000,
+        "monthlyPortfolioReturn": -3.06,
+        "monthlyPortfolioValue": 14620.0469
+      },
+      {
+        "date": 1543554000000,
+        "monthlyPortfolioReturn": 0.98,
+        "monthlyPortfolioValue": 15081.3627
+      },
+      {
+        "date": 1540958400000,
+        "monthlyPortfolioReturn": -1.38,
+        "monthlyPortfolioValue": 14934.5883
+      },
+      {
+        "date": 1538280000000,
+        "monthlyPortfolioReturn": 0.09,
+        "monthlyPortfolioValue": 15142.8409
+      },
+      {
+        "date": 1535688000000,
+        "monthlyPortfolioReturn": 0.5,
+        "monthlyPortfolioValue": 15128.5058
+      },
+      {
+        "date": 1533009600000,
+        "monthlyPortfolioReturn": 1.52,
+        "monthlyPortfolioValue": 15053.2953
+      },
+      {
+        "date": 1530331200000,
+        "monthlyPortfolioReturn": -0.07,
+        "monthlyPortfolioValue": 14828.1238
+      },
+      {
+        "date": 1527739200000,
+        "monthlyPortfolioReturn": 0.15,
+        "monthlyPortfolioValue": 14838.117
+      },
+      {
+        "date": 1525060800000,
+        "monthlyPortfolioReturn": -0.18,
+        "monthlyPortfolioValue": 14815.6338
+      },
+      {
+        "date": 1522468800000,
+        "monthlyPortfolioReturn": -0.96,
+        "monthlyPortfolioValue": 14842.2188
+      },
+      {
+        "date": 1519794000000,
+        "monthlyPortfolioReturn": -1.94,
+        "monthlyPortfolioValue": 14986.5651
+      },
+      {
+        "date": 1517374800000,
+        "monthlyPortfolioReturn": 1.57,
+        "monthlyPortfolioValue": 15282.7958
+      },
+      {
+        "date": 1514696400000,
+        "monthlyPortfolioReturn": 0.59,
+        "monthlyPortfolioValue": 15046.274
+      },
+      {
+        "date": 1512018000000,
+        "monthlyPortfolioReturn": 0.94,
+        "monthlyPortfolioValue": 14958.218
+      },
+      {
+        "date": 1509422400000,
+        "monthlyPortfolioReturn": 0.45,
+        "monthlyPortfolioValue": 14818.963
+      },
+      {
+        "date": 1506744000000,
+        "monthlyPortfolioReturn": 1.16,
+        "monthlyPortfolioValue": 14752.5633
+      },
+      {
+        "date": 1504152000000,
+        "monthlyPortfolioReturn": -0.33,
+        "monthlyPortfolioValue": 14583.1008
+      },
+      {
+        "date": 1501473600000,
+        "monthlyPortfolioReturn": 0.55,
+        "monthlyPortfolioValue": 14630.6717
+      },
+      {
+        "date": 1498795200000,
+        "monthlyPortfolioReturn": 0.59,
+        "monthlyPortfolioValue": 14550.1142
+      },
+      {
+        "date": 1496203200000,
+        "monthlyPortfolioReturn": -0.29,
+        "monthlyPortfolioValue": 14465.0318
+      },
+      {
+        "date": 1493524800000,
+        "monthlyPortfolioReturn": -0.38,
+        "monthlyPortfolioValue": 14506.4605
+      },
+      {
+        "date": 1490932800000,
+        "monthlyPortfolioReturn": -0.59,
+        "monthlyPortfolioValue": 14562.2557
+      },
+      {
+        "date": 1488258000000,
+        "monthlyPortfolioReturn": 1.23,
+        "monthlyPortfolioValue": 14648.2934
+      },
+      {
+        "date": 1485838800000,
+        "monthlyPortfolioReturn": 0,
+        "monthlyPortfolioValue": 14470.7308
+      },
+      {
+        "date": 1483160400000,
+        "monthlyPortfolioReturn": 1.03,
+        "monthlyPortfolioValue": 14470.8021
+      },
+      {
+        "date": 1480482000000,
+        "monthlyPortfolioReturn": 1.78,
+        "monthlyPortfolioValue": 14322.6712
+      },
+      {
+        "date": 1477886400000,
+        "monthlyPortfolioReturn": -0.52,
+        "monthlyPortfolioValue": 14071.75
+      },
+      {
+        "date": 1475208000000,
+        "monthlyPortfolioReturn": -0.2,
+        "monthlyPortfolioValue": 14145.568
+      },
+      {
+        "date": 1472616000000,
+        "monthlyPortfolioReturn": 0.16,
+        "monthlyPortfolioValue": 14174.4032
+      },
+      {
+        "date": 1469937600000,
+        "monthlyPortfolioReturn": 0.57,
+        "monthlyPortfolioValue": 14152.1317
+      },
+      {
+        "date": 1467259200000,
+        "monthlyPortfolioReturn": 0.43,
+        "monthlyPortfolioValue": 14071.9077
+      },
+      {
+        "date": 1464667200000,
+        "monthlyPortfolioReturn": 0.38,
+        "monthlyPortfolioValue": 14011.6086
+      },
+      {
+        "date": 1461988800000,
+        "monthlyPortfolioReturn": 0.4,
+        "monthlyPortfolioValue": 13958.6237
+      },
+      {
+        "date": 1459396800000,
+        "monthlyPortfolioReturn": 2.26,
+        "monthlyPortfolioValue": 13902.5213
+      },
+      {
+        "date": 1456722000000,
+        "monthlyPortfolioReturn": -0.12,
+        "monthlyPortfolioValue": 13595.4871
+      },
+      {
+        "date": 1454216400000,
+        "monthlyPortfolioReturn": -1.24,
+        "monthlyPortfolioValue": 13611.6968
+      },
+      {
+        "date": 1451538000000,
+        "monthlyPortfolioReturn": -0.48,
+        "monthlyPortfolioValue": 13782.4706
+      },
+      {
+        "date": 1448859600000,
+        "monthlyPortfolioReturn": 0.03,
+        "monthlyPortfolioValue": 13848.7617
+      },
+      {
+        "date": 1446264000000,
+        "monthlyPortfolioReturn": 2.43,
+        "monthlyPortfolioValue": 13844.389
+      },
+      {
+        "date": 1443585600000,
+        "monthlyPortfolioReturn": -0.77,
+        "monthlyPortfolioValue": 13516.2819
+      },
+      {
+        "date": 1440993600000,
+        "monthlyPortfolioReturn": -2.49,
+        "monthlyPortfolioValue": 13621.4259
+      },
+      {
+        "date": 1438315200000,
+        "monthlyPortfolioReturn": 0.13,
+        "monthlyPortfolioValue": 13968.8632
+      },
+      {
+        "date": 1435636800000,
+        "monthlyPortfolioReturn": -1.03,
+        "monthlyPortfolioValue": 13950.0359
+      },
+      {
+        "date": 1433044800000,
+        "monthlyPortfolioReturn": 0.08,
+        "monthlyPortfolioValue": 14095.6205
+      },
+      {
+        "date": 1430366400000,
+        "monthlyPortfolioReturn": 1.03,
+        "monthlyPortfolioValue": 14083.7385
+      },
+      {
+        "date": 1427774400000,
+        "monthlyPortfolioReturn": -0.8,
+        "monthlyPortfolioValue": 13939.9971
+      },
+      {
+        "date": 1425099600000,
+        "monthlyPortfolioReturn": 1.89,
+        "monthlyPortfolioValue": 14052.2036
+      },
+      {
+        "date": 1422680400000,
+        "monthlyPortfolioReturn": -1.94,
+        "monthlyPortfolioValue": 13792.0134
+      },
+      {
+        "date": 1420002000000,
+        "monthlyPortfolioReturn": 0.02,
+        "monthlyPortfolioValue": 14064.3792
+      },
+      {
+        "date": 1417323600000,
+        "monthlyPortfolioReturn": 0.37,
+        "monthlyPortfolioValue": 14061.7761
+      },
+      {
+        "date": 1414728000000,
+        "monthlyPortfolioReturn": -17.69,
+        "monthlyPortfolioValue": 14009.2645
+      },
+      {
+        "date": 1412049600000,
+        "monthlyPortfolioReturn": -0.68,
+        "monthlyPortfolioValue": 17020.12
+      },
+      {
+        "date": 1409457600000,
+        "monthlyPortfolioReturn": 0.91,
+        "monthlyPortfolioValue": 17136.8287
+      },
+      {
+        "date": 1406779200000,
+        "monthlyPortfolioReturn": -0.36,
+        "monthlyPortfolioValue": 16981.9894
+      },
+      {
+        "date": 1404100800000,
+        "monthlyPortfolioReturn": 0.61,
+        "monthlyPortfolioValue": 17044.0744
+      },
+      {
+        "date": 1401508800000,
+        "monthlyPortfolioReturn": -26.73,
+        "monthlyPortfolioValue": 16939.9021
+      },
+      {
+        "date": 1398830400000,
+        "monthlyPortfolioReturn": 37.41,
+        "monthlyPortfolioValue": 23119.3037
+      },
+      {
+        "date": 1396238400000,
+        "monthlyPortfolioReturn": -12.18,
+        "monthlyPortfolioValue": 16825.2489
+      },
+      {
+        "date": 1393563600000,
+        "monthlyPortfolioReturn": 16.02,
+        "monthlyPortfolioValue": 19159.7687
+      },
+      {
+        "date": 1391144400000,
+        "monthlyPortfolioReturn": -1.45,
+        "monthlyPortfolioValue": 16513.6518
+      },
+      {
+        "date": 1388466000000,
+        "monthlyPortfolioReturn": -26.58,
+        "monthlyPortfolioValue": 16755.7915
+      },
+      {
+        "date": 1385787600000,
+        "monthlyPortfolioReturn": 0.68,
+        "monthlyPortfolioValue": 22823.0794
+      },
+      {
+        "date": 1383192000000,
+        "monthlyPortfolioReturn": 0.89,
+        "monthlyPortfolioValue": 22669.8869
+      },
+      {
+        "date": 1380513600000,
+        "monthlyPortfolioReturn": 50.25,
+        "monthlyPortfolioValue": 22468.8897
+      },
+      {
+        "date": 1377921600000,
+        "monthlyPortfolioReturn": -0.86,
+        "monthlyPortfolioValue": 14953.874
+      },
+      {
+        "date": 1375243200000,
+        "monthlyPortfolioReturn": 0.82,
+        "monthlyPortfolioValue": 15084.2358
+      },
+      {
+        "date": 1372564800000,
+        "monthlyPortfolioReturn": -0.23,
+        "monthlyPortfolioValue": 14961.1555
+      },
+      {
+        "date": 1369972800000,
+        "monthlyPortfolioReturn": 0.39,
+        "monthlyPortfolioValue": 14995.5228
+      },
+      {
+        "date": 1367294400000,
+        "monthlyPortfolioReturn": -4.59,
+        "monthlyPortfolioValue": 14936.9024
+      },
+      {
+        "date": 1364702400000,
+        "monthlyPortfolioReturn": 5.76,
+        "monthlyPortfolioValue": 15655.8878
+      },
+      {
+        "date": 1362027600000,
+        "monthlyPortfolioReturn": 83.6,
+        "monthlyPortfolioValue": 14803.7686
+      },
+      {
+        "date": 1359608400000,
+        "monthlyPortfolioReturn": 1.61,
+        "monthlyPortfolioValue": 8062.8771
+      },
+      {
+        "date": 1356930000000,
+        "monthlyPortfolioReturn": 0.46,
+        "monthlyPortfolioValue": 7935.4312
+      },
+      {
+        "date": 1354251600000,
+        "monthlyPortfolioReturn": -0.66,
+        "monthlyPortfolioValue": 7899.1729
+      },
+      {
+        "date": 1351656000000,
+        "monthlyPortfolioReturn": 12.79,
+        "monthlyPortfolioValue": 7951.75
+      },
+      {
+        "date": 1348977600000,
+        "monthlyPortfolioReturn": 1.17,
+        "monthlyPortfolioValue": 7049.9495
+      },
+      {
+        "date": 1346385600000,
+        "monthlyPortfolioReturn": -36.17,
+        "monthlyPortfolioValue": 6968.5722
+      },
+      {
+        "date": 1343707200000,
+        "monthlyPortfolioReturn": 0.42,
+        "monthlyPortfolioValue": 10917.8389
+      },
+      {
+        "date": 1341028800000,
+        "monthlyPortfolioReturn": 1.68,
+        "monthlyPortfolioValue": 10871.9813
+      },
+      {
+        "date": 1338436800000,
+        "monthlyPortfolioReturn": -2.28,
+        "monthlyPortfolioValue": 10691.9222
+      },
+      {
+        "date": 1335758400000,
+        "monthlyPortfolioReturn": -0.25,
+        "monthlyPortfolioValue": 10941.0339
+      },
+      {
+        "date": 1333166400000,
+        "monthlyPortfolioReturn": 0.84,
+        "monthlyPortfolioValue": 10968.0967
+      },
+      {
+        "date": 1330491600000,
+        "monthlyPortfolioReturn": 0.96,
+        "monthlyPortfolioValue": 10877.1302
+      },
+      {
+        "date": 1327986000000,
+        "monthlyPortfolioReturn": 0.71,
+        "monthlyPortfolioValue": 10773.2876
+      },
+      {
+        "date": 1325307600000,
+        "monthlyPortfolioReturn": 0.88,
+        "monthlyPortfolioValue": 10697.4217
+      },
+      {
+        "date": 1322629200000,
+        "monthlyPortfolioReturn": -0.29,
+        "monthlyPortfolioValue": 10604.2742
+      },
+      {
+        "date": 1320033600000,
+        "monthlyPortfolioReturn": 3.16,
+        "monthlyPortfolioValue": 10635.5145
+      },
+      {
+        "date": 1317355200000,
+        "monthlyPortfolioReturn": -2.43,
+        "monthlyPortfolioValue": 10309.3372
+      },
+      {
+        "date": 1314763200000,
+        "monthlyPortfolioReturn": -2.67,
+        "monthlyPortfolioValue": 10566.2236
+      },
+      {
+        "date": 1312084800000,
+        "monthlyPortfolioReturn": -1.64,
+        "monthlyPortfolioValue": 10855.5957
+      },
+      {
+        "date": 1309406400000,
+        "monthlyPortfolioReturn": -0.88,
+        "monthlyPortfolioValue": 11036.4345
+      },
+      {
+        "date": 1306814400000,
+        "monthlyPortfolioReturn": -14.36,
+        "monthlyPortfolioValue": 11133.8917
+      },
+      {
+        "date": 1304136000000,
+        "monthlyPortfolioReturn": 17.2,
+        "monthlyPortfolioValue": 13001.3059
+      },
+      {
+        "date": 1301544000000,
+        "monthlyPortfolioReturn": 0.14,
+        "monthlyPortfolioValue": 11092.9501
+      },
+      {
+        "date": 1298869200000,
+        "monthlyPortfolioReturn": 1.49,
+        "monthlyPortfolioValue": 11077.3302
+      },
+      {
+        "date": 1296450000000,
+        "monthlyPortfolioReturn": 1.3,
+        "monthlyPortfolioValue": 10915.1557
+      },
+      {
+        "date": 1293771600000,
+        "monthlyPortfolioReturn": 12.6,
+        "monthlyPortfolioValue": 10775.6034
+      },
+      {
+        "date": 1291093200000,
+        "monthlyPortfolioReturn": -0.59,
+        "monthlyPortfolioValue": 9570.1655
+      },
+      {
+        "date": 1288497600000,
+        "monthlyPortfolioReturn": 1.08,
+        "monthlyPortfolioValue": 9627.0831
+      },
+      {
+        "date": 1285819200000,
+        "monthlyPortfolioReturn": -19.77,
+        "monthlyPortfolioValue": 9524.1473
+      },
+      {
+        "date": 1283227200000,
+        "monthlyPortfolioReturn": 24.61,
+        "monthlyPortfolioValue": 11871.5305
+      },
+      {
+        "date": 1280548800000,
+        "monthlyPortfolioReturn": -11.84,
+        "monthlyPortfolioValue": 9527.1194
+      },
+      {
+        "date": 1277870400000,
+        "monthlyPortfolioReturn": 2.69,
+        "monthlyPortfolioValue": 10806.8439
+      },
+      {
+        "date": 1275278400000,
+        "monthlyPortfolioReturn": -16.86,
+        "monthlyPortfolioValue": 10524.1606
+      },
+      {
+        "date": 1272600000000,
+        "monthlyPortfolioReturn": 35.26,
+        "monthlyPortfolioValue": 12658.8109
+      },
+      {
+        "date": 1270008000000,
+        "monthlyPortfolioReturn": 2.14,
+        "monthlyPortfolioValue": 9359.1479
+      },
+      {
+        "date": 1267333200000,
+        "monthlyPortfolioReturn": 0.47,
+        "monthlyPortfolioValue": 9162.6408
+      },
+      {
+        "date": 1264914000000,
+        "monthlyPortfolioReturn": 10.18,
+        "monthlyPortfolioValue": 9119.5742
+      },
+      {
+        "date": 1262235600000,
+        "monthlyPortfolioReturn": -0.51,
+        "monthlyPortfolioValue": 8277.196
+      },
+      {
+        "date": 1259557200000,
+        "monthlyPortfolioReturn": -9.8,
+        "monthlyPortfolioValue": 8319.5925
+      },
+      {
+        "date": 1256961600000,
+        "monthlyPortfolioReturn": 1.45,
+        "monthlyPortfolioValue": 9223.7875
+      },
+      {
+        "date": 1254283200000,
+        "monthlyPortfolioReturn": -9.08,
+        "monthlyPortfolioValue": 9091.9556
+      },
+      {
+        "date": 1251777600000,
+        "monthlyPortfolioReturn": 0,
+        "monthlyPortfolioValue": 10000
+      }
+    ],
+    "twelve_month_yield": 0.2091,
+    "pe_ratio": 0,
+    "pb_ratio": 0,
+    "creditExposure": {
+      "creditQualityAAA": 0,
+      "creditQualityAA": 0,
+      "creditQualityA": 0,
+      "creditQualityBBB": 0,
+      "creditQualityBB": 0,
+      "creditQualityB": 0,
+      "creditQualityBelowB": 0,
+      "creditQualityNotRated": 0
+    },
+    "effectiveMaturity": 0,
+    "effectiveDuration": 0,
+    "expense_ratio": 0,
+    "management_fee": 0,
+    "large_value": 0,
+    "large_blend": 0,
+    "large_growth": 0,
+    "mid_value": 0,
+    "mid_blend": 0,
+    "mid_growth": 0,
+    "small_value": 0,
+    "small_blend": 0,
+    "small_growth": 0,
+    "totalExpectedPortfolioReturn": 9.254,
+    "totalExpectedPortfolioRisk": 15.0865,
+    "averageExpectedReturn": 12.9193,
+    "us_development": 100,
+    "int_development": 0,
+    "emerging_market": 0,
+    "cash": 0,
+    "bonds": 0,
+    "equity": 89.95,
+    "convertible": 0,
+    "preferred": 0,
+    "managedFeatures": 0,
+    "realestate": 0,
+    "mlps": 0,
+    "frontLoad": 0,
+    "frontDefferred": 0,
+    "market_neutral": 0,
+    "id": null,
+    "indexName": null,
+    "annulizedReturn": 11.78128758875,
+    "portfolioRegionalBreakdown": {
+      "holdingId": null,
+      "holdingPercentage": null,
+      "stockPercentage": null,
+      "region_UnitedStates": 100,
+      "region_Canada": null,
+      "region_LatinAmerica": null,
+      "region_UnitedKingdom": null,
+      "region_EuroZone": null,
+      "region_EuropeExEuro": null,
+      "region_EuropeEmerging": null,
+      "region_Africa": null,
+      "region_MiddleEast": null,
+      "region_Japan": null,
+      "region_Australasia": null,
+      "region_AsiaDeveloped": null,
+      "region_AsiaEmerging": null,
+      "unRecognized": null
+    },
+    "portfolioCountryBreakdown": [
+      {
+        "countryName": "United States",
+        "value": 100,
+        "countryCode": "USA",
+        "region": "United States"
+      },
+      {
+        "countryName": "Unspecified",
+        "value": null,
+        "countryCode": null,
+        "region": null
+      }
+    ],
+    "other": 0,
+    "totalPositions": 2,
+    "status": "Success",
+    "earliestDate": 1251777600000,
+    "latestDate": 1567260000000,
+    "portfolioReturnData": {
+      "lowest1YrReturnValue": {
+        "rdate": 1430366400000,
+        "rValue": -39.082
+      },
+      "highest1YrReturnValue": {
+        "rdate": 1380513600000,
+        "rValue": 218.71
+      },
+      "lowest3YrReturnValue": {
+        "rdate": 1477886400000,
+        "rValue": -37.928
+      },
+      "highest3YrReturnValue": {
+        "rdate": 1385787600000,
+        "rValue": 138.482
+      },
+      "annualizedReturnsList": [
+        {
+          "year": 1,
+          "value": -0.44399881182622947
+        },
+        {
+          "year": 3,
+          "value": 2.039063173710809
+        },
+        {
+          "year": 5,
+          "value": -2.5543391006527694
+        },
+        {
+          "year": 7,
+          "value": 11.635616336897181
+        },
+        {
+          "year": 10,
+          "value": 4.179643584161297
+        },
+        {
+          "year": 0,
+          "value": 4.179643584161297
+        }
+      ],
+      "threeYearRollingReturnList": [
+        {
+          "rdate": 1567224000000,
+          "rValue": 2.039063173710809
+        },
+        {
+          "rdate": 1559275200000,
+          "rValue": 1.9196270079242739
+        },
+        {
+          "rdate": 1551330000000,
+          "rValue": 3.3953465295246232
+        },
+        {
+          "rdate": 1543554000000,
+          "rValue": 2.8731331360171586
+        },
+        {
+          "rdate": 1535688000000,
+          "rValue": 3.5551638268807695
+        },
+        {
+          "rdate": 1527739200000,
+          "rValue": 1.719969575497493
+        },
+        {
+          "rdate": 1519794000000,
+          "rValue": 2.1604848180085234
+        },
+        {
+          "rdate": 1512018000000,
+          "rValue": 2.0741242486422617
+        },
+        {
+          "rdate": 1504152000000,
+          "rValue": -5.2441451336510125
+        },
+        {
+          "rdate": 1496203200000,
+          "rValue": -5.13442757033472
+        },
+        {
+          "rdate": 1488258000000,
+          "rValue": -8.564219345852598
+        },
+        {
+          "rdate": 1480482000000,
+          "rValue": -14.388730488815671
+        }
+      ],
+      "fiveYearRollingReturnList": [
+        {
+          "rdate": 1567224000000,
+          "rValue": -2.5543391006527694
+        },
+        {
+          "rdate": 1559275200000,
+          "rValue": -2.623560175938988
+        },
+        {
+          "rdate": 1551330000000,
+          "rValue": -4.744503061961558
+        },
+        {
+          "rdate": 1543554000000,
+          "rValue": -7.959830681382119
+        },
+        {
+          "rdate": 1535688000000,
+          "rValue": 0.22599122873201427
+        },
+        {
+          "rdate": 1527739200000,
+          "rValue": -0.21695233697767158
+        },
+        {
+          "rdate": 1519794000000,
+          "rValue": 0.2402388222313423
+        },
+        {
+          "rdate": 1512018000000,
+          "rValue": 13.616164264609898
+        },
+        {
+          "rdate": 1504152000000,
+          "rValue": 15.91109570710232
+        },
+        {
+          "rdate": 1496203200000,
+          "rValue": 6.228454431829267
+        },
+        {
+          "rdate": 1488258000000,
+          "rValue": 6.131337459066488
+        },
+        {
+          "rdate": 1480482000000,
+          "rValue": 6.193301134793927
+        }
+      ],
+      "annualReturnsList": [
+        {
+          "rdate": 1567224000000,
+          "rValue": -0.437
+        },
+        {
+          "rdate": 1535688000000,
+          "rValue": 3.74
+        },
+        {
+          "rdate": 1504152000000,
+          "rValue": 2.883
+        },
+        {
+          "rdate": 1472616000000,
+          "rValue": 4.06
+        },
+        {
+          "rdate": 1440993600000,
+          "rValue": -20.514
+        },
+        {
+          "rdate": 1409457600000,
+          "rValue": 14.598
+        },
+        {
+          "rdate": 1377921600000,
+          "rValue": 114.59
+        },
+        {
+          "rdate": 1346385600000,
+          "rValue": -34.049
+        },
+        {
+          "rdate": 1314763200000,
+          "rValue": -10.995
+        },
+        {
+          "rdate": 1283227200000,
+          "rValue": 18.715
+        }
+      ]
+    },
+    "allocationSorted": [
+      {
+        "id": null,
+        "assetTypeId": 451,
+        "name": "US Equity",
+        "value": 100,
+        "children": [
+          {
+            "assetId": 2764,
+            "superAssetId": 451,
+            "name": "Total US Mkt",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2765,
+            "superAssetId": 451,
+            "name": "US Large Blend",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2766,
+            "superAssetId": 451,
+            "name": "US Large Value",
+            "value": 100,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2767,
+            "superAssetId": 451,
+            "name": "US Large Growth",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2768,
+            "superAssetId": 451,
+            "name": "US Small Cap Blend",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2769,
+            "superAssetId": 451,
+            "name": "US Small Cap Value",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2770,
+            "superAssetId": 451,
+            "name": "US Small Cap Growth",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2771,
+            "superAssetId": 451,
+            "name": "US Midcap Blend",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2772,
+            "superAssetId": 451,
+            "name": "US Midcap Value",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2773,
+            "superAssetId": 451,
+            "name": "US Midcap Growth",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2781,
+            "superAssetId": 451,
+            "name": "US REIT",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2783,
+            "superAssetId": 451,
+            "name": "Sector Exposure",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2805,
+            "superAssetId": 451,
+            "name": "US Large Momentum",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2806,
+            "superAssetId": 451,
+            "name": "US Small Momentum",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          }
+        ],
+        "superAssetClassAlignment": "Left",
+        "sortOrder": 1,
+        "assetOrder": 1
+      },
+      {
+        "id": null,
+        "assetTypeId": 453,
+        "name": "Intl Equity",
+        "value": 0,
+        "children": [
+          {
+            "assetId": 2774,
+            "superAssetId": 453,
+            "name": "Intl Large Blend",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2775,
+            "superAssetId": 453,
+            "name": "Intl Large Value",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2776,
+            "superAssetId": 453,
+            "name": "Intl Large Growth",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2777,
+            "superAssetId": 453,
+            "name": "Intl Small Blend",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2778,
+            "superAssetId": 453,
+            "name": "Emerging Markets",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2807,
+            "superAssetId": 453,
+            "name": "Intl Momentum",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          }
+        ],
+        "superAssetClassAlignment": "Left",
+        "sortOrder": 2,
+        "assetOrder": 2
+      },
+      {
+        "id": null,
+        "assetTypeId": 452,
+        "name": "US Fixed Income",
+        "value": 0,
+        "children": [
+          {
+            "assetId": 2752,
+            "superAssetId": 452,
+            "name": "US Short Gov",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2754,
+            "superAssetId": 452,
+            "name": "US Interm Gov",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2755,
+            "superAssetId": 452,
+            "name": "US Long Gov",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2756,
+            "superAssetId": 452,
+            "name": "US Long Muni",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2757,
+            "superAssetId": 452,
+            "name": "US Short Muni",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2758,
+            "superAssetId": 452,
+            "name": "US Interm Muni",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2759,
+            "superAssetId": 452,
+            "name": "TIPS",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2760,
+            "superAssetId": 452,
+            "name": "US Short Corp",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2761,
+            "superAssetId": 452,
+            "name": "US Long Corp",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2762,
+            "superAssetId": 452,
+            "name": "US Interm Corp",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2780,
+            "superAssetId": 452,
+            "name": "Cash",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2782,
+            "superAssetId": 452,
+            "name": "US High Yield",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2784,
+            "superAssetId": 452,
+            "name": "Bank Loan",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2786,
+            "superAssetId": 452,
+            "name": "Convertible Notes",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          }
+        ],
+        "superAssetClassAlignment": "Middle",
+        "sortOrder": 4,
+        "assetOrder": 3
+      },
+      {
+        "id": null,
+        "assetTypeId": 455,
+        "name": "Global Equity",
+        "value": 0,
+        "children": [
+          {
+            "assetId": 2787,
+            "superAssetId": 455,
+            "name": "Global Large Cap",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2788,
+            "superAssetId": 455,
+            "name": "Global Mid/Small Cap",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2789,
+            "superAssetId": 455,
+            "name": "Global REIT",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2790,
+            "superAssetId": 455,
+            "name": "Moderate Allocation",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2791,
+            "superAssetId": 455,
+            "name": "Target Date",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2792,
+            "superAssetId": 455,
+            "name": "Conservative Allocation",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2793,
+            "superAssetId": 455,
+            "name": "Aggressive Allocation",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2794,
+            "superAssetId": 455,
+            "name": "World Allocation",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          }
+        ],
+        "superAssetClassAlignment": "Left",
+        "sortOrder": 3,
+        "assetOrder": 3
+      },
+      {
+        "id": null,
+        "assetTypeId": 454,
+        "name": "Intl Fixed Income",
+        "value": 0,
+        "children": [
+          {
+            "assetId": 2753,
+            "superAssetId": 454,
+            "name": "Global Bonds",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2763,
+            "superAssetId": 454,
+            "name": "EM Bond",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2785,
+            "superAssetId": 454,
+            "name": "World Bond",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          }
+        ],
+        "superAssetClassAlignment": "Middle",
+        "sortOrder": 5,
+        "assetOrder": 4
+      },
+      {
+        "id": null,
+        "assetTypeId": 456,
+        "name": "Alternative",
+        "value": 0,
+        "children": [
+          {
+            "assetId": 2779,
+            "superAssetId": 456,
+            "name": "Commodity",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2795,
+            "superAssetId": 456,
+            "name": "Master Limited Partnership",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2796,
+            "superAssetId": 456,
+            "name": "Long/Short Equity",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2797,
+            "superAssetId": 456,
+            "name": "Managed Futures",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2798,
+            "superAssetId": 456,
+            "name": "Market Neutral",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2799,
+            "superAssetId": 456,
+            "name": "Multi-Alternative",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          }
+        ],
+        "superAssetClassAlignment": "Right",
+        "sortOrder": 6,
+        "assetOrder": 6
+      },
+      {
+        "id": null,
+        "assetTypeId": 457,
+        "name": "Other",
+        "value": 0,
+        "children": [
+          {
+            "assetId": 2800,
+            "superAssetId": 457,
+            "name": "Bear Market",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2801,
+            "superAssetId": 457,
+            "name": "Currency",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2802,
+            "superAssetId": 457,
+            "name": "Other Fixed Income",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2803,
+            "superAssetId": 457,
+            "name": "Preferred Stock",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          },
+          {
+            "assetId": 2804,
+            "superAssetId": 457,
+            "name": "Leveraged Net Long",
+            "value": 0,
+            "historicalRiskAndReturn": null,
+            "expectedRiskAndReturn": null,
+            "isChanged": false,
+            "indexName": null,
+            "indexId": null,
+            "dividendRate": null,
+            "ordinaryDividendRate": null,
+            "sortOrder": null,
+            "morningstarAssetIdList": null
+          }
+        ],
+        "superAssetClassAlignment": "Right",
+        "sortOrder": 7,
+        "assetOrder": 7
+      }
+    ],
+    "isCustomLayout": false
+  }
+}

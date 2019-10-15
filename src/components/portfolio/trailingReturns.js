@@ -1,0 +1,154 @@
+import React, {Component} from 'react';
+import './trailingReturns.css'
+import NumberFormat from 'react-number-format';
+import cloneDeep from 'lodash/cloneDeep';
+import {
+    Chart,
+    ChartSeries,
+    ChartSeriesItem,
+    ChartCategoryAxis,
+    ChartCategoryAxisItem,
+    ChartAxisDefaults,
+    ChartLegend,
+    ChartArea
+} from '@progress/kendo-react-charts';
+import Table from '@material-ui/core/Table';
+import TableBody from '@material-ui/core/TableBody';
+import TableCell from '@material-ui/core/TableCell';
+import TableHead from '@material-ui/core/TableHead';
+import TableRow from '@material-ui/core/TableRow';
+
+const categories = ["1 year", "3 year", "5 year", "7 year", "10 year"];
+
+class TrailingReturns extends Component {
+
+    render() {
+        const setupData = () => {
+            let _cacheDataCurrent = {};
+            if (this.props.portfolio) {
+                _cacheDataCurrent = cloneDeep(this.props.portfolio);
+                let arrayData = [];
+                _cacheDataCurrent.details.portfolioReturnData.annualizedReturnsList.forEach(function (dataItem, i) {
+                    if (dataItem.year === 1 || dataItem.year === 3 || dataItem.year === 5 || dataItem.year === 7 || dataItem.year === 10)
+                        arrayData.push(dataItem.value);
+                });
+                _cacheDataCurrent.annualizedReturnData = {
+                    name: _cacheDataCurrent.portfolioName,
+                    data: arrayData
+                }
+            }
+            let _cacheDataIndex = {};
+            if (this.props.index) {
+                _cacheDataIndex = cloneDeep(this.props.index);
+                let arrayData = [];
+                _cacheDataIndex.portfolioReturnData.annualizedReturnsList.forEach(function (dataItem, i) {
+                    if (dataItem.year === 1 || dataItem.year === 3 || dataItem.year === 5 || dataItem.year === 7 || dataItem.year === 10)
+                        arrayData.push(dataItem.value);
+                });
+                _cacheDataIndex.annualizedReturnData = {
+                    name: _cacheDataIndex.indexName,
+                    data: arrayData
+                }
+            }
+            else {
+                _cacheDataIndex = {annualizedReturnData: null};
+            }
+
+            let dataSet = [_cacheDataCurrent.annualizedReturnData ? _cacheDataCurrent.annualizedReturnData : []];
+            if (_cacheDataIndex.annualizedReturnData) dataSet.push(_cacheDataIndex.annualizedReturnData);
+            return dataSet;
+        }
+
+        const dataCurrent = setupData();
+
+        const displayIndexHeader = () => {
+            if (this.props.index && dataCurrent[1] != null) {
+                return <TableCell>Index</TableCell>
+            }
+        }
+
+        const displayIndexCell = (idx) => {
+            if (this.props.index && dataCurrent[1] != null) {
+                return (
+                    <TableCell>
+                        <NumberFormat
+                            value={dataCurrent[1].data[idx]}
+                            displayType={'text'}
+                            thousandSeparator={true}
+                            suffix={'%'}
+                            decimalScale={2}
+                            fixedDecimalScale={2}
+                        />
+                    </TableCell>
+                )
+            }
+        }
+
+        const getBarColor = (idx) => {
+            if (idx === 0) {
+                return "blue";
+            } else if (idx == 1) {
+                return "grey";
+            }
+        }
+
+        return (
+            <div>
+                <div>
+                    <h1>Trailing Returns</h1>
+                </div>
+                <Table className='trailing-returns-table' size="small">
+                    <TableHead>
+                        <TableRow>
+                            <TableCell>Duration</TableCell>
+                            <TableCell>Return</TableCell>
+                            {displayIndexHeader()}
+                        </TableRow>
+                    </TableHead>
+                    <TableBody>
+                        {dataCurrent[0].data.map((item, idx) => (
+                            <TableRow>
+                                <TableCell>{categories[idx]}</TableCell>
+                                <TableCell>
+                                    <NumberFormat
+                                        value={item}
+                                        displayType={'text'}
+                                        thousandSeparator={true}
+                                        suffix={'%'}
+                                        decimalScale={2}
+                                        fixedDecimalScale={2}
+                                    />
+                                </TableCell>
+                                {displayIndexCell(idx)}
+                            </TableRow>
+                        ))}
+                    </TableBody>
+                </Table>
+
+                <div className='trailing-returns-chart'>
+                    <Chart>
+                        <ChartArea width="600" height="300"/>
+                        <ChartLegend position="top" orientation="horizontal" />
+                        <ChartCategoryAxis>
+                            <ChartCategoryAxisItem categories={categories} />
+                        </ChartCategoryAxis>
+                        <ChartAxisDefaults labels={{ format: "# \\%" }} />
+                        <ChartSeries>
+                            {dataCurrent.map((item, idx) => (
+                                <ChartSeriesItem
+                                    key={idx}
+                                    type="column"
+                                    data={item.data}
+                                    name={item.name}
+                                    color={getBarColor(idx)}
+                                />))}
+                        </ChartSeries>
+                    </Chart>
+                </div>
+            </div>
+        );
+    }
+}
+
+export { TrailingReturns };
+
