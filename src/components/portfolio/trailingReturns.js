@@ -1,7 +1,5 @@
 import React, {Component} from 'react';
 import './trailingReturns.css'
-import NumberFormat from 'react-number-format';
-import cloneDeep from 'lodash/cloneDeep';
 import {
     Chart,
     ChartSeries,
@@ -17,6 +15,7 @@ import TableBody from '@material-ui/core/TableBody';
 import TableCell from '@material-ui/core/TableCell';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
+import percentage from "../../util/percentage";
 
 const categories = ["1 year", "3 year", "5 year", "7 year", "10 year"];
 
@@ -26,27 +25,25 @@ class TrailingReturns extends Component {
         const setupData = () => {
             let _cacheDataCurrent = {};
             if (this.props.portfolio) {
-                _cacheDataCurrent = cloneDeep(this.props.portfolio);
                 let arrayData = [];
-                _cacheDataCurrent.details.portfolioReturnData.annualizedReturnsList.forEach(function (dataItem, i) {
+                this.props.portfolio.details.portfolioReturnData.annualizedReturnsList.forEach(function (dataItem, i) {
                     if (dataItem.year === 1 || dataItem.year === 3 || dataItem.year === 5 || dataItem.year === 7 || dataItem.year === 10)
                         arrayData.push(dataItem.value);
                 });
                 _cacheDataCurrent.annualizedReturnData = {
-                    name: _cacheDataCurrent.portfolioName,
+                    name: this.props.portfolio.portfolioName,
                     data: arrayData
                 }
             }
             let _cacheDataIndex = {};
             if (this.props.index) {
-                _cacheDataIndex = cloneDeep(this.props.index);
                 let arrayData = [];
-                _cacheDataIndex.portfolioReturnData.annualizedReturnsList.forEach(function (dataItem, i) {
+                this.props.index.portfolioReturnData.annualizedReturnsList.forEach(function (dataItem, i) {
                     if (dataItem.year === 1 || dataItem.year === 3 || dataItem.year === 5 || dataItem.year === 7 || dataItem.year === 10)
                         arrayData.push(dataItem.value);
                 });
                 _cacheDataIndex.annualizedReturnData = {
-                    name: _cacheDataIndex.indexName,
+                    name: this.props.index.indexName,
                     data: arrayData
                 }
             }
@@ -71,14 +68,7 @@ class TrailingReturns extends Component {
             if (this.props.index && dataCurrent[1] != null) {
                 return (
                     <TableCell>
-                        <NumberFormat
-                            value={dataCurrent[1].data[idx]}
-                            displayType={'text'}
-                            thousandSeparator={true}
-                            suffix={'%'}
-                            decimalScale={2}
-                            fixedDecimalScale={2}
-                        />
+                        <span>{ percentage(dataCurrent[1].data[idx]) }</span>
                     </TableCell>
                 )
             }
@@ -110,14 +100,7 @@ class TrailingReturns extends Component {
                             <TableRow>
                                 <TableCell>{categories[idx]}</TableCell>
                                 <TableCell>
-                                    <NumberFormat
-                                        value={item}
-                                        displayType={'text'}
-                                        thousandSeparator={true}
-                                        suffix={'%'}
-                                        decimalScale={2}
-                                        fixedDecimalScale={2}
-                                    />
+                                    <span>{ percentage(item) }</span>
                                 </TableCell>
                                 {displayIndexCell(idx)}
                             </TableRow>
@@ -148,6 +131,12 @@ class TrailingReturns extends Component {
             </div>
         );
     }
+}
+
+export default function(value, decimalPosition = 2) {
+    return '$' + value
+        .toFixed(decimalPosition)
+        .replace(/(\d)(?=(\d{3})+\.)/g, '$1,')
 }
 
 export { TrailingReturns };
