@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import '@progress/kendo-theme-default/dist/all.css';
-import { TrailingReturns } from './components/portfolio/trailingReturns';
+import TrailingReturns from './components/portfolio/trailingReturns';
 import portfolioData from './portfolio_data.json';
 import indexData from './index_data.json';
 
