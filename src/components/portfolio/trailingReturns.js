@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import './trailingReturns.css'
+import './trailingReturns.css';
 import {
     Chart,
     ChartSeries,
